@@ -2,7 +2,7 @@
 For today's exercise we will be working on moving from context to interactions. Students will use a textbot to explore their ideas, and then prototype from this conversation.
 
 ## Synthesis
-The first goal is to synthesize the previous week's context into a short, simplified textual description. A [template](context.md) has been created to help the students formulating their synthesis.
+The first goal is to synthesize the previous week's context into a short, simplified textual description. A [template](context.md) has been created to help the students formulating their synthesis. This synthesis should describe your context and what you learned from your observations. It does not describe the future interactions, nor the form of your device/experience.
 
 ## Template
 - [context.md](context.md)
