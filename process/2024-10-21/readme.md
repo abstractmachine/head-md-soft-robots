@@ -35,4 +35,4 @@ Students can also discuss:
 - Why
 
 ## Prototype
-Based on the
+Based on this conversation, students will create quick physical prototypes using paper, cardboard, straws, balloons, tapes, whatever.
