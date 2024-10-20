@@ -3,13 +3,12 @@ Soft Robots is a semester project at the [Master Media Design]() of [HEAD-Genèv
 
 ## Folders
 Each project has the following folders:
-- [Process](/process/readme.md)
-- [Electronics](/electronics/readme.md)
-- [Forms](/forms/readme.md)
+- [process](/process/)
+- [electronics](/electronics/)
+- [forms](/forms/)
 
 ## Students
 Here are the students working on this project:
-
 - [Chakir Ali]()
 - Ayoub Azzouzi
 - Elisa Bernard
