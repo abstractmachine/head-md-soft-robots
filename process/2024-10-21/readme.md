@@ -25,11 +25,12 @@ Dicussions with the bot should cover the following topics:
 - One key interaction
 - Input
 - Output
-- Scenario
+- ~~Scenario~~
 
 Students can also discuss:
 
 - Agency
+- Personality
 - Context
 - Feedback loop
 - Why

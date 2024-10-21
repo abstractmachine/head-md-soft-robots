@@ -15,7 +15,7 @@ It is helpful to describe what you are *not* interested in. Bots like counter-ex
 - …
 
 ## Observations
-Describe, in as few words as possible, your observations. You can write out your observations in a paragraphy format. You can also write it out as a list, for example:
+Describe, in as few words as possible, some key observations. You can write out your observations in a paragraphy format. You can also write it out as a list, for example:
 
 - Monday morning
 	- Kitchen: _____ did _____ for _____ minutes

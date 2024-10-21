@@ -23,10 +23,10 @@ Here are the students working on this project:
 - [Liuliu Zhu]()
 
 ## Professors
-- [Alexia Mathieu]()
-- [Douglas Edric Stanley]()
-- [Laure Krayenbühl]()
-- [Pierre Rossel]()
+- [Alexia Mathieu](https://www.hesge.ch/head/annuaire/alexia-mathieu)
+- [Douglas Edric Stanley](https://abstractmachine.net)
+- [Laure Krayenbühl](https://www.a-projectstudio.ch/en/lang)
+- [Pierre Rossel](https://github.com/prossel)
 
 ## Assistant
 - [Pablo Bellon]()
