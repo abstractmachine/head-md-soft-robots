@@ -1,14 +1,19 @@
+This is a mock-up of a simple note a student might make at the end of a week. Notes should be more exhaustive that this simple mock-up.
+
 # First Week
 
-Here is an image of a mockup that I created:
-![Screenshot](screenshot-1.png)
+## Prototype
+Here is an screenshot from something that I created to explore _________ :
+![Screenshot](images/screenshot-1.png)
 
+Here is another screenshot from something that I created to explore _________ :
+![Screenshot](images/screenshot-2.png)
 
-## Vocabulary
-idofhjgfd
+…
 
-## Why
-ldijfgdfg
-
-## Context to explore
-oidhjfgdf
+## Todo
+- Some goal
+- Another goal
+- Answer a question
+- Experiment with a prototype
+- …
