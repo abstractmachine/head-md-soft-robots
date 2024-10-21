@@ -17,10 +17,10 @@ Here are the students working on this project:
 - [Peter Ha]()
 - [Tara Hächler]()
 - [Francesco Le Touzé]()
-- [Lise Mendes]()
+- [Lise Mendes](https://github.com/lisem34/Soft-Robotic)
 - [Antonin Ricou]()
 - [Karina Wolff]()
-- [Liuliu Zhu]()
+- [Liuliu Zhu](https://github.com/LiuliuLexie/head-md-softrobotics)
 
 ## Professors
 - [Alexia Mathieu](https://www.hesge.ch/head/annuaire/alexia-mathieu)
