@@ -9,7 +9,7 @@ Each project has the following folders:
 
 ## Students
 Here are the students working on this project:
-- [Chakir Ali]()
+- [Chakir Ali](https://github.com/ChakirALIEdu/head-md-soft-robots)
 - [Ayoub Azzouzi]()
 - [Elisa Bernard]()
 - [Bruno Da Cruz Costa]()
