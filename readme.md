@@ -10,13 +10,13 @@ Each project has the following folders:
 ## Students
 Here are the students working on this project:
 - [Chakir Ali](https://github.com/ChakirALIEdu/head-md-soft-robots)
-- [Ayoub Azzouzi]()
+- [Ayoub Azzouzi](https://github.com/Ayooooooub/HEAD_soft_robots/)
 - [Elisa Bernard]()
 - [Bruno Da Cruz Costa]()
 - [Haneul Farmanfarmaian]()
 - [Peter Ha]()
 - [Tara Hächler]()
-- [Francesco Le Touzé]()
+- [Francesco Le Touzé](https://github.com/Funkor-dev/head-md-soft-robots/)
 - [Lise Mendes](https://github.com/lisem34/Soft-Robotic)
 - [Antonin Ricou]()
 - [Karina Wolff]()
