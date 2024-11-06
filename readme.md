@@ -11,7 +11,7 @@ Each project has the following folders:
 Here are the students working on this project:
 - [Chakir Ali](https://github.com/ChakirALIEdu/head-md-soft-robots)
 - [Ayoub Azzouzi](https://github.com/Ayooooooub/HEAD_soft_robots/)
-- [Elisa Bernard]()
+- [Elisa Bernard](https://github.com/hiddenenigma/head-md-soft-robots/blob/main/presentations/2024-11-07.md)
 - [Bruno Da Cruz Costa](https://github.com/Psemata/softrobotics)
 - [Haneul Farmanfarmaian](https://github.com/haneulee/HEAD-soft-robotics)
 - [Peter Ha](https://github.com/hiddenenigma/head-md-soft-robots)
