@@ -7,6 +7,9 @@ Each project has the following folders:
 - [electronics](/electronics/)
 - [forms](/forms/)
 
+## Présentations
+There will be several [presentations](/presentations/) throughout the semester.
+
 ## Students
 Here are the students working on this project:
 - [Chakir Ali](https://github.com/ChakirALIEdu/head-md-soft-robots)
